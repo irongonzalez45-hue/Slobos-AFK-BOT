@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Skeletons.aternos.me",
     "port": 39299,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
