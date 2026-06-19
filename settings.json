@@ -8,7 +8,7 @@
   "server": {
     "ip": "Skeletons.aternos.me",
     "port": 39299,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
